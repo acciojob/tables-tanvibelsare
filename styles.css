@@ -1,21 +1,11 @@
 
-.test{
-	border-bottom:1px solid ghostwhite;
-}
-.test-1{
-	border-bottom:1px solid black;
+thead{
+	background-color:black;
+	color:white;
 }
 #total{
 	font-family:monospace;
 	text-align:end;
 	font-weight:bold;
+	baground-color:lightgray;
 }
-.head{
-	background:black;
-	color:white
-}
-.no{
-	font-weight:bold;
-}
-
-
