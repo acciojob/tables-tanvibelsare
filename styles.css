@@ -1,11 +1,11 @@
 
-thead{
+/* thead{
 	background-color:black;
 	color:white;
-}
+} */
 #total{
 	font-family:monospace;
 	text-align:end;
 	font-weight:bold;
-	baground-color:lightgray;
+	
 }
